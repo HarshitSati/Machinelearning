@@ -1,2 +1,2 @@
 # Machinelearning
-Repository for machine learning concepts and algos references
+Repository for machine learning concepts/algos/reference
