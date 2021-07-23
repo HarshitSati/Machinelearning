@@ -1,3 +1,3 @@
 # Machinelearning
 Repository for machine learning concepts/algos/reference.
-Tools : Sklearn.
+Tools : Sklearn, Scipy.
